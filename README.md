@@ -1,7 +1,7 @@
 # linux-guide
 
 ## Ubuntu Folder tree-style map
---
+
 /
 ├── bin        → Essential user commands (ls, cp, mv)
 ├── boot       → Boot loader files, Linux kernel
@@ -25,4 +25,4 @@
 │   └── share  → Shared data
 └── var        → Variable data (logs, cache, mail)
     └── log    → System and application logs
---
+
