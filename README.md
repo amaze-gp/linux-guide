@@ -2,6 +2,7 @@
 
 ## Ubuntu Folder tree-style map
 
+```plaintext
 /
 ├── bin        → Essential user commands (ls, cp, mv)
 ├── boot       → Boot loader files, Linux kernel
